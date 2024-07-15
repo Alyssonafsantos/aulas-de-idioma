@@ -1,4 +1,3 @@
-<img src="img/aulas de idioma.avif" >
 <h1 align="center">Aulas de Idioma</h1>
 
 
